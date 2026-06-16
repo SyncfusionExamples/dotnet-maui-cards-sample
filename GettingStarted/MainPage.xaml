@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:cards="clr-namespace:Syncfusion.Maui.Cards;assembly=Syncfusion.Maui.Cards"
+             x:Class="GettingStarted.MainPage">
+
+    <cards:SfCardLayout HeightRequest="300"
+                        WidthRequest="300"
+                        BackgroundColor="#F0F0F0">
+
+        <cards:SfCardView CornerRadius="10">
+            <Label  Text="Peach"
+                    BackgroundColor="PeachPuff"
+                    VerticalTextAlignment="Center"
+                    HorizontalTextAlignment="Center" />
+        </cards:SfCardView>
+
+        <cards:SfCardView CornerRadius="10">
+            <Label  Text="MediumPurple"
+                    BackgroundColor="MediumPurple"
+                    VerticalTextAlignment="Center"
+                    HorizontalTextAlignment="Center" />
+        </cards:SfCardView>
+
+        <cards:SfCardView CornerRadius="10">
+            <Label  Text="LightPink"
+                    BackgroundColor="LightPink"
+                    VerticalTextAlignment="Center"
+                    HorizontalTextAlignment="Center" />
+        </cards:SfCardView>
+
+    </cards:SfCardLayout>
+
+</ContentPage>
