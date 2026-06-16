@@ -98,7 +98,7 @@ Initialize a card layout with a card view using the provided code sample below.
 
 The following screenshot illustrates the result of the above code.
 
-![MAUI SfCardView image](images/maui-card-cardlayout.gif)
+![MAUI SfCardView image](maui-card-cardlayout.gif)
 
 
 N> You can refer to our [.NET MAUI Cards](https://www.syncfusion.com/maui-controls/maui-cards) feature tour page for its groundbreaking feature representations. You can also explore our [.NET MAUI Cards Example](https://github.com/syncfusion/maui-demos/tree/master/MAUI/Cards) that shows you how to render and configure the Cards in .NET MAUI.
