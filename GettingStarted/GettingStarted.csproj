@@ -62,7 +62,7 @@
 	<ItemGroup>
 		<PackageReference Include="Microsoft.Maui.Controls" Version="$(MauiVersion)" />
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="9.0.8" />
-		<PackageReference Include=" Syncfusion.Maui.Cards" Version="33.2.12" />
+		<PackageReference Include=" Syncfusion.Maui.Cards" Version="*" />
 	</ItemGroup>
 
 </Project>
